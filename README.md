@@ -1,4 +1,4 @@
-# Campus Seach Engine
+# Campus Search Engine
 
 ## About
 Building a local query-based **search engine** to assist searching and indexing over local area networks. Custom searching and results display.
@@ -18,4 +18,4 @@ Building a local query-based **search engine** to assist searching and indexing 
 * search.py: running searches on the indexed data
 
 #### Project Deployment
-Django based back-end used to deploy the Search engine in the form of a website with comaptible search results on local IITG websites. Project is currently being developed under Students' Web Committee (SWC) IIT Guwahati and has a expansive scope.
+Django based back-end used to deploy the Search engine in the form of a website with compatible search results on local IITG websites. Project is currently being developed under Students' Web Committee (SWC) IIT Guwahati and has an expansive scope.
