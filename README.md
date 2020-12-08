@@ -1,4 +1,4 @@
-# Campus Seach Engine
+# Campus Search Engine
 
 ## About
 Building a local query-based **search engine** to assist searching and indexing over local area networks. Custom searching and results display.
